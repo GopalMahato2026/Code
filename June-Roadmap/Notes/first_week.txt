@@ -1,0 +1,208 @@
+# 🚀 **7-DAY SPRINT TASKS (JUNE 1 - JUNE 7)**
+
+## **DAY 1 - JUNE 1**
+### **DSA Learning**
+- Array fundamentals: indexing, memory layout, basic operations
+- Time complexity of array operations
+### **Problems to Solve (6 problems)**
+1. Two Sum (LeetCode #1)
+2. Best Time to Buy and Sell Stock (LeetCode #121)
+3. Contains Duplicate (LeetCode #217)
+4. Maximum Subarray (LeetCode #53)
+5. Plus One (LeetCode #66)
+6. Move Zeroes (LeetCode #283)
+### **Python OOP**
+- Classes and objects basics
+- `__init__` method and instance variables
+- Creating methods in classes
+### **Project Work**
+- Set up CLI Notes Manager project structure
+- Create basic menu system in `main.py`
+### **Git/GitHub**
+- Install Git, create GitHub account
+- Learn: `git config`, basic commands
+### **Revision**
+- Review all 6 problems solved
+- Practice creating simple classes
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+## **DAY 2 - JUNE 2**
+### **DSA Learning**
+- Array operations: insertion, deletion, searching
+- Linear search implementation
+### **Problems to Solve (6 problems)**
+1. Remove Duplicates from Sorted Array (LeetCode #26)
+2. Remove Element (LeetCode #27)
+3. Search Insert Position (LeetCode #35)
+4. Merge Sorted Array (LeetCode #88)
+5. Pascal's Triangle (LeetCode #118)
+6. Single Number (LeetCode #136)
+### **Python OOP**
+- Constructors with parameters
+- Instance methods and return values
+- Practice: Create BankAccount class
+### **Project Work**
+- Create `Note` class with title, content, timestamp
+- Implement `add_note()` function
+### **Git/GitHub**
+- `git init`, `git add`, `git commit`
+- Create first repository on GitHub
+### **Revision**
+- Total 12 problems solved so far
+- Understanding constructor usage
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+## **DAY 3 - JUNE 3*
+### **DSA Learning**
+- Two-pointer technique introduction
+- When and why to use two pointers
+- Opposite ends pattern
+### **Problems to Solve (6 problems)**
+1. Valid Palindrome (LeetCode #125)
+2. Two Sum II - Input Array Is Sorted (LeetCode #167)
+3. Reverse String (LeetCode #344)
+4. Squares of a Sorted Array (LeetCode #977)
+5. Sort Colors (LeetCode #75)
+6. Container With Most Water (LeetCode #11)
+### **Python OOP**
+- Inheritance basics: parent and child classes
+- `super()` keyword usage
+- Method inheritance
+### **Project Work**
+- Add `view_notes()` and `delete_note()` functions
+- Input validation and error handling
+### **Git/GitHub**
+- Connect local repository to GitHub remote
+- First push to GitHub
+### **Revision**
+- Total 18 problems solved
+- Two-pointer technique patterns
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+## **DAY 4 - JUNE 4**
+### **DSA Learning**
+- Advanced two-pointer: fast-slow pointer
+- Multiple pointers in arrays
+- Edge cases and optimization
+### **Problems to Solve (6 problems)**
+1. 3Sum (LeetCode #15)
+2. Remove Nth Node From End (LeetCode #19)
+3. Trapping Rain Water (LeetCode #42)
+4. Product of Array Except Self (LeetCode #238)
+5. Find Minimum in Rotated Sorted Array (LeetCode #153)
+6. Majority Element (LeetCode #169)
+### **Python OOP**
+- Method overriding in child classes
+- Using `super()` to call parent methods
+- Polymorphism introduction
+### **Project Work**
+- File operations: save/load notes to/from file
+- JSON handling for data persistence
+### **Git/GitHub**
+- Branching basics: create and switch branches
+- Merging branches
+### **Revision**
+- Total 24 problems solved
+- File handling practice
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+## **DAY 5 - JUNE 5**
+### **DSA Learning**
+- String fundamentals vs arrays
+- String immutability in Python
+- Common string operations and slicing
+### **Problems to Solve (6 problems)**
+1. Reverse Words in a String (LeetCode #151)
+2. Length of Last Word (LeetCode #58)
+3. Valid Anagram (LeetCode #242)
+4. First Unique Character (LeetCode #387)
+5. Implement strStr() (LeetCode #28)
+6. Longest Common Prefix (LeetCode #14)
+### **Python OOP**
+- Polymorphism: same method names, different implementations
+- Abstract concepts and interfaces
+- Multiple inheritance basics
+### **Project Work**
+- Add `search_notes()` function
+- Implement edit note functionality
+### **Git/GitHub**
+- Merge conflicts and resolution
+- Pull requests basics
+### **Revision**
+- Total 30 problems solved
+- String vs array operations
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+## **DAY 6 - JUNE 6**
+### **DSA Learning**
+- Advanced string patterns and algorithms
+- String hashing concepts
+- Anagram detection techniques
+### **Problems to Solve (6 problems)**
+1. Group Anagrams (LeetCode #49)
+2. Longest Substring Without Repeating Characters (LeetCode #3)
+3. Valid Parentheses (LeetCode #20)
+4. String Compression (LeetCode #443)
+5. Palindromic Substrings (LeetCode #647)
+6. Minimum Window Substring (LeetCode #76)
+### **Python OOP**
+- Encapsulation: private attributes and methods
+- Getter and setter methods
+- Data hiding principles
+### **Project Work**
+- Add advanced features: categories, tags
+- Statistics display (word count, note count)
+### **Git/GitHub**
+- Advanced Git: rebase, stash
+- Repository management
+### **Revision**
+- Total 36 problems solved
+- Encapsulation implementation
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+## **DAY 7 - JUNE 7**
+### **DSA Learning**
+- Review all array and string patterns
+- Problem identification techniques
+- Speed optimization strategies
+### **Problems to Solve (6 problems)**
+1. Rotate Array (LeetCode #189)
+2. Merge Intervals (LeetCode #56)
+3. Longest Palindromic Substring (LeetCode #5)
+4. Next Permutation (LeetCode #31)
+5. Jump Game (LeetCode #55)
+6. Edit Distance (LeetCode #72)
+### **Python OOP**
+- Complete project using all OOP concepts
+- Code organization and clean architecture
+- Documentation and comments
+### **Project Work**
+- Final testing and bug fixes
+- Create comprehensive README.md
+- Code cleanup and optimization
+### **Git/GitHub**
+- Push complete project to GitHub
+- Professional repository setup
+- Documentation and licensing
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+### **Revision**
+- Total 42+ problems solved
+- Complete week review and weak area identification
+- Preparation for Week 2
+## **🎯 WEEK COMPLETION CHECKLIST**
+- [ ] **42+ DSA problems solved** (arrays + strings)
+- [ ] **Complete CLI Notes Manager** with all OOP principles
+- [ ] **GitHub repository** with professional documentation
+- [ ] **Mastery of:** Classes, inheritance, polymorphism, encapsulation
+- [ ] **Git workflow:** init, add, commit, push, branch, merge
+- [ ] **Problem-solving patterns:** Two-pointer, array manipulation, string processing
+**Focus:** Complete tasks daily, don't worry about timing. Quality over speed!
