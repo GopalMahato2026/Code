@@ -4,13 +4,12 @@
 ### **DSA Learning**
 - Array fundamentals: indexing, memory layout, basic operations
 - Time complexity of array operations
-### **Problems to Solve (6 problems)**
+### **Problems to Solve (5 problems)**
 1. Two Sum (LeetCode #1)
 2. Best Time to Buy and Sell Stock (LeetCode #121)
 3. Contains Duplicate (LeetCode #217)
-4. Maximum Subarray (LeetCode #53)
-5. Plus One (LeetCode #66)
-6. Move Zeroes (LeetCode #283)
+4. Plus One (LeetCode #66)
+5. Move Zeroes (LeetCode #283)
 ### **Python OOP**
 - Classes and objects basics
 - `__init__` method and instance variables
@@ -21,8 +20,7 @@
 ### **Git/GitHub**
 - Install Git, create GitHub account
 - Learn: `git config`, basic commands
-### **Revision**
-- Review all 6 problems solved
+### **Revision**- Review all 6 problems solved
 - Practice creating simple classes
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -32,13 +30,16 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ### **DSA Learning**
 - Array operations: insertion, deletion, searching
 - Linear search implementation
-### **Problems to Solve (6 problems)**
+### **Problems to Solve (7 problems)**
 1. Remove Duplicates from Sorted Array (LeetCode #26)
 2. Remove Element (LeetCode #27)
 3. Search Insert Position (LeetCode #35)
 4. Merge Sorted Array (LeetCode #88)
 5. Pascal's Triangle (LeetCode #118)
 6. Single Number (LeetCode #136)
+7. Maximum Subarray (LeetCode #53)
+
+
 ### **Python OOP**
 - Constructors with parameters
 - Instance methods and return values
@@ -53,11 +54,11 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 - Total 12 problems solved so far
 - Understanding constructor usage
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$        NOT COMPLETE!             $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$         COMPLETED!                $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ## **DAY 3 - JUNE 3*
 ### **DSA Learning**
-- Two-pointer technique introduction
+ Two-pointer technique introduction
 - When and why to use two pointers
 - Opposite ends pattern
 ### **Problems to Solve (6 problems)**
