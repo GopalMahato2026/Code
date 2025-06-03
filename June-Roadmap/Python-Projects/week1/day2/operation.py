@@ -23,3 +23,17 @@ def linear_search(arr, target):
     return -1
     
 print(linear_search([1, 23, 45, 65, 7], 7))    
+
+### removing duplicates
+def removingDuplicates(arr):
+    if not arr:
+        return 0
+    i = 0
+    for j in range(1, len(arr)):
+        if arr[j] != arr[i]:
+            i += 1
+            arr[i] = arr[j]
+    return i + 1
+print(removingDuplicates([11,2,23,11,34,334,1,2,3,3,2,2,2,4]))
+
+
