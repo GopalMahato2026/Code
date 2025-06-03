@@ -97,7 +97,8 @@ print(f"Top 1 movie: {top1_movie.title} | {top1_movie.director} | {top1_movie.ye
 print(f"Top 2 movie: {top2_movie.title} | {top2_movie.director} | {top2_movie.year}")
 
 ## trying printing attributes that are not wrote
-print({top1_movie.boxoffice})
+#print({top1_movie.boxoffice}) ## seeing attribute error
+
 
 
 
