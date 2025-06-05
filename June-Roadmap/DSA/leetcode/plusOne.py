@@ -7,4 +7,4 @@ def plusOne(digits):
             return digits
         digits[i] = 0
     return [1] + digits
-print(plusOne([1,2,9]))        
+print(plusOne([9,9,9]))        
