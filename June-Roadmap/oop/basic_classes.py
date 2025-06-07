@@ -1,7 +1,10 @@
+"""
 ### What is class ?
+"""
 """
 A class is a blueprint or template for creating objects
 Think of it like a cookie cutter - it defines the shape,  but each cookie (object) is unique
+"""
 """
 # Basic class definition
 class Car:
@@ -98,6 +101,33 @@ print(f"Top 2 movie: {top2_movie.title} | {top2_movie.director} | {top2_movie.ye
 
 ## trying printing attributes that are not wrote
 #print({top1_movie.boxoffice}) ## seeing attribute error
+"""
+
+# the main part 2
+# understanding classes again
+"""
+What is __init__?
+-It's a special method in python classes.
+-called automatically when a new object created.
+-Used to initialize instance variables (object's own data).
+- Thinking of it like setting up a new phone - giving it a name, background, etc.
+"""
+class ClassName:
+    def __init__(self, parameter):
+        self.instanceVariable = value
+# self refers to the object itself. self.name means: "store the passed name inside the object.
+
+#example 1
+class Student:
+    def __init__(self, name, age, percentage):
+        self.name = name
+        self.age = age
+        self.percen = percentage
+    
+## creating object
+s1 = Student("Gopal", 19, 78.82)
+print(s1.name, s1.age, s1.percen)
+
 
 
 

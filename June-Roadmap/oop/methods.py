@@ -1,3 +1,6 @@
+
+"""
+tasks of day one
 class BankAccount:
     def __init__(self, account_holder, initial_balance=0, interest_rate=5, account_type="Saving"):
         self.account_holder = account_holder
@@ -163,10 +166,7 @@ class Movie:
         print(f"Director: {self.director} Genre: {self.genre}")
         print(f"Average Rating: {aver_rating:.1f}")
         print(f"Times Watched: {self.times_watched} times!")
-        if self.reviews:
-            print("Recent reviews: ")
-            for review in self.reviews:
-                print("- \{review}\ ")
+     
 #lets test
 interstaller = Movie("Interstaller" ,"Christopher Nolan", 2014, "Si-Fi")
 interstaller.add_ratings(9)
@@ -178,5 +178,43 @@ interstaller.watch_movie()
 interstaller.watch_movie()
 interstaller.movie_summary()                
 
+"""
+
+#$$$$$$$$$$$$$$$$$$$$$$$$$$$HERE IS THE TASKS OF DAY 2$$$$$$$$$$$$$$$$$
+
+class Product:
+    def __init__(self, name, price, quantity):
+        self.name = name 
+        self.price = price
+        self.quantity = quantity
+    def totalPrice(self):
+        return self.price * self.quantity
+
+product1 = Product("LANOVO LAPTOP COMPUTER", 33990, 1)
+details = product1.totalPrice()
+print(details)
+
+
+## practice tasks for me 
+"""
+Make a class Rectangle with:
+Attributes: length, width
+Method area() → returns the area (length × width)
+Method perimeter() → returns perimeter (2 × (length + width))
+"""
+class Ractangle:
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
+    def area(self):
+        return self.length * self.width
+    
+    def perimeter(self):
+        return 2 * ( self.length + self.width)
+        
+     
+myPhone = Ractangle(7, 3)
+print("area is: ", myPhone.area())
+print("perimeter is: ", myPhone.perimeter())
 
                        
